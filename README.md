@@ -1,6 +1,6 @@
 # nexlog <br/> Test Change
 
-<!-- Space for transparent logo -->
+<!-- Space for transparent logo Okay -->
 <div align="center">
   <!-- Logo will go here -->
 <img src="docs/logo.png" alt="nexlog" width="200" height="200">
