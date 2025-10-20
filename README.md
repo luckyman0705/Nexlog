@@ -237,7 +237,6 @@ Before starting work on a major feature, please open an issue to discuss the app
 
 ## License
 
-nexlog is available under the MIT License. See the [LICENSE](./LICENSE) file for the complete text.
 
 ---
 
