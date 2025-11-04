@@ -235,4 +235,3 @@ I welcome contributions of all kinds. Whether it's fixing bugs, adding features,
 This is really good for the users.
 Before starting work on a major feature, please open an issue to discuss the approach. This helps ensure your effort aligns with the project's direction and avoids duplicate work.
 okay
-I welcome contributions of all kinds. whether it is fixing bug, adding feature, improving documentation, or sharing how you use nexlog in your projects
