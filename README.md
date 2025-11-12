@@ -229,5 +229,5 @@ The `examples/` directory contains working code for every feature:
 - **`time_travel.zig`** - Advanced debugging features
 - **`visualization.zig`** - Log analysis and visualization
 
-## Contributing
+
 
