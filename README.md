@@ -227,7 +227,7 @@ The `examples/` directory contains working code for every feature:
 - **`json_logging.zig`** - Optimized JSON output
 - **`benchmark.zig`** - Performance testing and optimization
 - **`time_travel.zig`** - Advanced debugging features
-- **`visualization.zig`** - Log analysis and visualization
+
 
 
 
