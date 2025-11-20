@@ -225,8 +225,10 @@ The `examples/` directory contains working code for every feature:
 - **`file_rotation.zig`** - Automatic file management
 - **`custom_handler.zig`** - Build your own log destinations
 - **`json_logging.zig`** - Optimized JSON output
-- **`benchmark.zig`** - Performance testing and optimization
 
 
 
 
+
+ .
+ 
