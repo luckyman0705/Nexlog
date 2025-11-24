@@ -224,7 +224,7 @@ The `examples/` directory contains working code for every feature:
 - **`structured_logging.zig`** - JSON, logfmt, and custom formats
 - **`file_rotation.zig`** - Automatic file management
 - **`custom_handler.zig`** - Build your own log destinations
-- **`json_logging.zig`** - Optimized JSON output
+
 
 
 
