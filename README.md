@@ -220,8 +220,8 @@ try builder
 The `examples/` directory contains working code for every feature:
 
 - **`basic_usage.zig`** - Start here for simple logging
-- **`context_tracking.zig`** - Request tracking across functions  
-- **`structured_logging.zig`** - JSON, logfmt, and custom formats
+
+
 
 
 
