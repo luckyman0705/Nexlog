@@ -101,8 +101,6 @@ Feature requests are welcome! Please provide:
 
 By contributing to Nexlog, you agree that your contributions will be licensed under its MIT License.
 
----
 
-Remember: The best way to start contributing is to begin with small improvements. Even fixing a typo helps!
 
 
