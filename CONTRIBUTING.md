@@ -103,6 +103,6 @@ By contributing to Nexlog, you agree that your contributions will be licensed un
 
 ---
 
-
+Remember: The best way to start contributing is to begin with small improvements. Even fixing a typo help
 
 
