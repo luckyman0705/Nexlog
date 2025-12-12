@@ -219,7 +219,7 @@ try builder
 
 The `examples/` directory contains working code for every feature:
 
-- **`basic_usage.zig`** - Start here for simple logging
+
 
 
 
