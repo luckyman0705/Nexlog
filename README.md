@@ -217,7 +217,6 @@ try builder
 
 
 
-The `examples/` directory contains working code for every feature:
 
 
 
