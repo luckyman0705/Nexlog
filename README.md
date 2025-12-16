@@ -212,8 +212,7 @@ try builder
     .setMaxRotatedFiles(3)
     .enableRotation(true)
     .enableAsyncMode(true)
-    .build(allocator);
-```
+    
 
 
 
