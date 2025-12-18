@@ -203,7 +203,7 @@ Configure nexlog to fit your specific needs:
 
 ```zig
 var builder = nexlog.LogBuilder.init();
-try builder
+
     .setMinLevel(.debug)
     .enableColors(true)
     .setBufferSize(8192)
@@ -214,21 +214,3 @@ try builder
     .enableAsyncMode(true)
     .build(allocator);
 ```
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- .
- 
