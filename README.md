@@ -211,4 +211,3 @@ try builder
     .setMaxFileSize(5 * 1024 * 1024)
     .setMaxRotatedFiles(3)
     .enableRotation(true)
-```
